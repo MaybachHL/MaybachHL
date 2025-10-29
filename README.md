@@ -12,3 +12,12 @@
 
 
 <p align="center">ɪ ʟᴏᴠᴇ ʏᴏᴜ sᴛᴀs <3 </p>
+
+
+<!-- 10 строковых отступов -->
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<!-- Ваш текст -->
+<p>жжооопааа как же я заебался времени пол шестого</p>
+<img width="273" height="174" alt="image" src="https://github.com/user-attachments/assets/7fa5b7e9-7c91-48b3-b701-abfd15c8f272" />
+
